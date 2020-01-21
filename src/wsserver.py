@@ -19,7 +19,7 @@ class Server(object):
 
     async def handle_message(self, websocket, path):
         """
-        main function, executer a la reception d'un message
+        main function, executé a la reception d'un message
         :arg websocket
         :arg path
         """
